@@ -5,6 +5,17 @@
   },
   "permissions": {
     "allow": [
+      "Bash(cd:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(echo:*)",
+      "Bash(touch:*)",
+      "Bash(file:*)",
+      "Bash(diff:*)",
+      "Bash(tee:*)",
+      "Bash(which:*)",
+      "Bash(tar:*)",
+      "Bash(unzip:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
